@@ -9,7 +9,7 @@ Estructura de la web:
  - Manejo (Guia de usuario)
  - Preguntas y respuestas
  - Descargas
- - Editor de plantillas
+ - Editor de plantillas (con opcion de seleccionar el codigo seleccionado para compartir con la aplicacion on siendo html5 para guardar en memoria)
  - Contacto / Sujerencias
 
 Funcionalidades:
